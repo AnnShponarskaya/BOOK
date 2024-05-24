@@ -5,5 +5,5 @@ Pandas==1.1.2
 Scikit-learn==0.23.2
 SciPy==1.4.1
 FuzzyWuzzy==0.18.0
-Chart JS==2.9.4
+Chart.js==2.9.4
 Bootstrap-select==1.14.0
