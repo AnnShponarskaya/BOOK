@@ -1,5 +1,4 @@
 Flask==1.1.2
-Bootstrap==5.3.3
 Pandas==1.1.2
 Scikit-learn==0.23.2
 SciPy==1.4.1
